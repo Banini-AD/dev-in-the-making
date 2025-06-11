@@ -20,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [My Solution](https://github.com/Banini-AD/dev-in-the-making/tree/main)
 - Live Site URL: [LIve Site](https://banini-ad.github.io/dev-in-the-making/)
 
 ## My process
@@ -62,5 +62,4 @@ I would like to improve my code for better search engine optimization, so that s
 - [Youtube](https://www.youtube.com) - This helped me get to know how the Semantic HTML 5 is used . I'd recommend it to anyone still learning this concept.
 
 ## Author
-- Website - [Banini-AD](https://www.your-site.com)
 - Frontend Mentor - [@Banini-AD](https://www.frontendmentor.io/profile/Banini-AD)
