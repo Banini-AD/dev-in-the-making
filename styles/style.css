@@ -83,6 +83,9 @@ p{
 }
 
 @media screen and (max-width: 375px) {
+  body{
+    height: 100vh;
+  }
   .qr-box{
     width: 70%;
   }
