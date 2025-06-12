@@ -56,7 +56,7 @@ body{
   padding: 0 6px;
 }
 
-.text-box > h3 {
+.text-box > h1 {
   color: var(--slate-900);
   font-size: 1.3rem;
 }
@@ -76,18 +76,12 @@ p{
   color: var(--slate-500);
 }
 
-.attribution{
-  position: fixed;
-  bottom: 0;
-  padding-bottom: 2vh;
-}
-
 @media screen and (max-width: 375px) {
   body{
     height: 100vh;
   }
   .qr-box{
-    width: 70%;
+    width: 70rem;
   }
   .container{
     padding-bottom: 2vh;
