@@ -36,6 +36,7 @@ body{
   -moz-border-radius: 20px;
   -ms-border-radius: 20px;
   -o-border-radius: 20px;
+  margin-bottom: 7rem;
 }
 
 .qr-image-box{
@@ -45,7 +46,6 @@ body{
   -moz-border-radius: 18px;
   -ms-border-radius: 18px;
   -o-border-radius: 18px;
-  margin-bottom: 7rem;
 }
 
 .text-box{
